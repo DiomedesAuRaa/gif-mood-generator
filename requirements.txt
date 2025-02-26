@@ -1,0 +1,7 @@
+requests
+pillow
+imageio
+ipython
+requests
+flask
+python-dotenv
