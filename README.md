@@ -1,5 +1,5 @@
-# [Mood GIF Generator](http://ecs-alb-420556418.us-east-1.elb.amazonaws.com:5000)
-[Available Here:](http://ecs-alb-420556418.us-east-1.elb.amazonaws.com:5000)
+# [Mood GIF Generator](http://ecs-alb-245690102.us-east-1.elb.amazonaws.com:5000/)
+[Available Here:](http://ecs-alb-245690102.us-east-1.elb.amazonaws.com:5000/)
 
 A Python web application that generates a GIF based on your mood. The app asks for your mood, fetches a relevant GIF from Giphy, and displays it in your browser.
 
